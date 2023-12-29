@@ -1,6 +1,6 @@
 ### <h1>Olá, me chamo Wendel 👋👨🏼‍💻</h1>
 
-<h3>Meu nome é Wendel Lucca, tenho 20 anos e sou completamente apaixonado por desenvolvimento de sistemas. Atualmente, estou no segundo ano nessa jornada maluca que é essa área que a gente ama tanto.</h3>
+<h3>Meu nome é Wendel Lucca, tenho 20 anos e sou completamente apaixonado por desenvolvimento de sistemas. Atualmente, estou no segundo ano nessa jornada maluca que é essa área que a gente ama tanto.</h3><br>
 
 <div>
   <p><b>💻 O que eu faço?</b></p>
