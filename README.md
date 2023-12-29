@@ -1,6 +1,7 @@
 ### <h1>Olá, me chamo Wendel 👋👨🏼‍💻</h1><br>
 
 <div>
+  <a href="https://github.com/Wendel25">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendel25&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel25&layout=compact&langs_count=16&theme=dracula"/>
 </div><br><br><br>
