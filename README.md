@@ -23,7 +23,7 @@
   <p>Ah, e se surgir alguma oportunidade maneira ou se quiserem trocar uma ideia para me conhecerem, abaixo estão formas de me contatar:</p>
 
   <a href="https://api.whatsapp.com/send?phone=5518981091295" title="(18) 981091295">
-    <img src="https://img.shields.io/badge/-Whatsapp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Ícone do WhatsApp">
+    <img src="https://img.shields.io/badge/-Whatsapp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
 
   <a href="mailto:luccawendel25@gmail.com" title="luccawendel25@gmail.com">
