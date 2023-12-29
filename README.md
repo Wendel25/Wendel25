@@ -1,6 +1,6 @@
 ### <h1>Olá, me chamo Wendel 👋👨🏼‍💻</h1>
 
-<div style="display: inline_block"><br>
+<div style="display: flex; justify-content: space-between;">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
