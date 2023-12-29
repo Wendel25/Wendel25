@@ -18,7 +18,7 @@
   <a href="mailto:luccawendel25@gmail.com" title="luccawendel25@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-</div><br>
+</div>
 
 ##
 
@@ -52,7 +52,7 @@
       <img src="https://img.shields.io/badge/-%2325D366?&logo=whatsapp&logoColor=white" target="_blank">
     </a>
   </p>
-</div><br>
+</div>
 
 ##
 
