@@ -1,5 +1,11 @@
 ### <h1>Olá, me chamo Wendel 👋👨🏼‍💻</h1>
 
+<div>
+  <a href="https://github.com/Wendel25"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendel25&show_icons=true&theme=dracula&include_all_commits=true"/>
+</div>
+
+
 <div style="display: flex; justify-content: space-between;">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
