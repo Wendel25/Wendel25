@@ -3,17 +3,17 @@
 <h3>Meu nome é Wendel Lucca, tenho 20 anos e sou completamente apaixonado por desenvolvimento de sistemas. Atualmente, estou no segundo ano nessa jornada maluca que é essa área que a gente ama tanto.</h3>
 
 <div>
-  <p>💻 O que eu faço?</p>
+  <p><b>💻 O que eu faço?</b></p>
   <p>Sou Full Stack, o que significa que mexo tanto com o visual bonitão das coisas (frontend) quanto com os bastidores mágicos (backend).</p><br>
 </div>
 
 <div>
-  <p>🚀 O que tô estudando?</p>
+  <p><b>🚀 O que tô estudando?</b></p>
   <p>Ultimamente, tô quebrando a cabeça com Angular e Node, porém, tenho experiencia em desenvolvimento com React JS, PHP, MySQL e um pouco de PostGreSQL.</p><br>
 </div>
 
 <div>
-  <p>📍 Onde moro?</p>
+  <p><b>📍 Onde moro?</b></p>
   <p>Sou do interior de São Paulo, em Palmital-SP. O lugar é tranquilo, mas a minha empolgação por programação é de outro mundo. 🌏</p><br>
 </div>
 
