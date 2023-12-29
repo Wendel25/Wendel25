@@ -52,6 +52,7 @@
 ##
 
 <h3> 🔥 Skills as a full stack junior</h3>
+<br>
  <div>
     <p><b>Programming Languages - Front </b></p>
     <div style="display: flex; justify-content: space-between;">
