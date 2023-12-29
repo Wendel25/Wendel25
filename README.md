@@ -11,10 +11,12 @@
 
 
 <p>📍 Onde moro?</p>
-<p>Sou do interior de São Paulo, em Palmital-SP. O lugar é tranquilo, mas a minha empolgação por programação é de outro mundo.</p><br>
+<p>Sou do interior de São Paulo, em Palmital-SP. O lugar é tranquilo, mas a minha empolgação por programação é de outro mundo. 🌏</p><br>
 
 
 <p>Sei que a vida é mais do que códigos e telas de computador, então se quiserem bater um papo sobre qualquer coisa, tô aqui! 🌟</p>
+
+<p>Caso queira saber um pouco mais sobre mim, também estou por lá: <b><a href="https://www.linkedin.com/in/wendel-l-1353b3205/">Linkedin</a></b></p>
 
 <p>Ah, e se surgir alguma oportunidade maneira ou se quiserem trocar uma ideia sobre projetos, meu celular tá sempre à disposição: (18) 98109-1295. E claro, também tô ligado no e-mail: luccawendel25@gmail.com.</p>
 
