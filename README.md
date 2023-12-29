@@ -25,7 +25,7 @@
 <div>
   <br>
   <p><b>💻 O que eu faço?</b></p>
-  <p>Sou desenvolvedor full stack júnior ( mas sou daqueles que brilha mais no front ), o que significa que mexo tanto com o visual bonitão das coisas (frontend) quanto com os bastidores mágicos (backend). 😎 </p><br>
+  <p>Sou dev full stack júnior, mas meu brilho maior tá no front, onde deixo as coisas bonitonas, e ainda me arrisco nos bastidores mágicos do backend. 😎🚀</p><br>
 </div>
 
 <div>
