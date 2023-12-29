@@ -19,6 +19,12 @@
 </div>
 
 <div>
+  <p><b>🤖 O que me intriga?</b></p>
+  <p>Eu curto pra caramba tudo sobre CuberSecurity, Hacking, Segurança da informação, IA entre outros. Aquelas paradas de desvendar os mistérios do universo digital, saca?</p><br>
+</div>
+
+
+<div>
   <p>Sei que a vida é mais do que códigos e telas de computador, então se quiserem bater um papo sobre qualquer coisa, tô aqui! 🌟</p>
   <p>Ah, e se surgir alguma oportunidade maneira ou se quiserem trocar uma ideia para me conhecerem, abaixo estão formas de me contatar:</p>
 
