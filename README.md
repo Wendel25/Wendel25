@@ -50,7 +50,7 @@
       <img src="https://img.shields.io/badge/-%2325D366?&logo=whatsapp&logoColor=white" target="_blank">
     </a>
   </p>
-</div><br><br>
+</div><br>
 
 <div style="display: flex; justify-content: space-between;">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
