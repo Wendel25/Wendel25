@@ -19,6 +19,6 @@
 <div>
   <p>Ah, e se surgir alguma oportunidade maneira ou se quiserem trocar uma ideia para me conhecerem, meu celular tá sempre à disposição: (18) 98109-1295</p>
 
-  <a href = "mailto:luccawendel25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:luccawendel25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wendel-l-1353b3205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
