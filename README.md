@@ -1,9 +1,9 @@
-### <h1>Olá, me chamo Wendel 👋👨🏼‍💻</h1>
+### <h1>Olá, me chamo Wendel 👋👨🏼‍💻</h1><br>
 
 <div>
-  <a href="https://github.com/Wendel25"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendel25&show_icons=true&theme=dracula&include_all_commits=true"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel25&layout=compact&langs_count=16&theme=dracula"/>
+</div><br><br><br>
 
 
 <div style="display: flex; justify-content: space-between;">
@@ -18,7 +18,6 @@
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
-
 
 
 <h3>Meu nome é Wendel Lucca, tenho 20 anos e sou completamente apaixonado por desenvolvimento de sistemas. Atualmente, estou no segundo ano nessa jornada maluca que é essa área que a gente ama tanto.</h3>
