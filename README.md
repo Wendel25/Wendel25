@@ -25,7 +25,7 @@
 <div>
   <br>
   <p><b>💻 O que eu faço?</b></p>
-  <p>Sou Full Stack, o que significa que mexo tanto com o visual bonitão das coisas (frontend) quanto com os bastidores mágicos (backend).</p><br>
+  <p>Sou desenvolvedor full stack júnior ( mas sou daqueles que brilha mais no front ), o que significa que mexo tanto com o visual bonitão das coisas (frontend) quanto com os bastidores mágicos (backend). 😎 </p><br>
 </div>
 
 <div>
