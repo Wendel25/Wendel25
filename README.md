@@ -22,7 +22,15 @@
   <p>Sei que a vida é mais do que códigos e telas de computador, então se quiserem bater um papo sobre qualquer coisa, tô aqui! 🌟</p>
   <p>Ah, e se surgir alguma oportunidade maneira ou se quiserem trocar uma ideia para me conhecerem, abaixo estão formas de me contatar:</p>
 
-  <a href="https://api.whatsapp.com/send?phone=5518981091295"><img src="https://img.shields.io/badge/-Whatsapp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="mailto:luccawendel25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wendel-l-1353b3205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5518981091295" title="(18) 981091295">
+    <img src="https://img.shields.io/badge/-Whatsapp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Ícone do WhatsApp">
+  </a>
+
+  <a href="mailto:luccawendel25@gmail.com" title="luccawendel25@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/wendel-l-1353b3205" target="Wendel Lucca">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </div>
