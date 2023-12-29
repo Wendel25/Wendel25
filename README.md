@@ -40,7 +40,7 @@
 
 <div>
   <p><b>🤖 O que me intriga?</b></p>
-  <p>Eu curto pra caramba tudo sobre CuberSecurity, Hacking, Segurança da informação, IA entre outros. Aquelas paradas de desvendar os mistérios do universo digital, saca?</p><br>
+  <p>Eu curto pra caramba tudo sobre CyberSecurity, Hacking, Segurança da informação, IA entre outros. Aquelas paradas de desvendar os mistérios do universo digital, saca?</p><br>
 </div>
 
 <div>
