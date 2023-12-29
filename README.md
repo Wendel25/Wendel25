@@ -1,4 +1,4 @@
-### <h1>Olá, eu sou o Wendel 👋👨🏼‍💻</h1><br>
+### <h1>Hello word, I am Wendel 👋👨🏼‍💻</h1><br>
 
 <div>
   <a href="https://github.com/Wendel25">
@@ -22,32 +22,27 @@
 
 ##
 
-<h3>Meu nome é Wendel Lucca, tenho 20 anos e sou completamente apaixonado por desenvolvimento de sistemas. Atualmente, estou no segundo ano nessa jornada maluca que é essa área que a gente ama tanto.</h3>
+<h3>My name is Wendel Lucca, I am 20 years old, and I am completely passionate about software development. Currently, I am in my second year on this crazy journey in the field that we love so much.</h3>
 
 <div>
   <br>
-  <p><b>💻 O que eu faço?</b></p>
-  <p>Sou dev full stack júnior, mas meu brilho maior tá no front, onde deixo as coisas bonitonas, e ainda me arrisco nos bastidores mágicos do backend. 😎🚀</p><br>
+  <p><b>💻 What do I do?</b></p>
+  <p>I'm a junior full-stack developer, but my true shine is in the front end, where I make things look nice, and I also take risks in the magical backstage of the backend. 😎🚀</p><br>
 </div>
 
 <div>
-  <p><b>🚀 Minhas Habilidades</b></p>
-  <p>Ultimamente, tô quebrando a cabeça com Angular e Node, porém, tenho experiencia em desenvolvimento com React JS, PHP, MySQL e um pouco de PostGreSQL.</p><br>
+  <p><b>📍 Where I live?</b></p>
+  <p>I'm from the interior of São Paulo, in Palmital-SP. The place is peaceful, but my enthusiasm for programming is out of this world. 🌏</p><br>
 </div>
 
 <div>
-  <p><b>📍 Onde moro?</b></p>
-  <p>Sou do interior de São Paulo, em Palmital-SP. O lugar é tranquilo, mas a minha empolgação por programação é de outro mundo. 🌏</p><br>
+  <p><b>🤖 What intrigues me?</b></p>
+  <p>I'm really into everything related to Cybersecurity, Hacking, Information Security, AI, and others. Those things about unraveling the mysteries of the digital universe, you know?</p><br>
 </div>
 
 <div>
-  <p><b>🤖 O que me intriga?</b></p>
-  <p>Eu curto pra caramba tudo sobre CyberSecurity, Hacking, Segurança da informação, IA entre outros. Aquelas paradas de desvendar os mistérios do universo digital, saca?</p><br>
-</div>
-
-<div>
-  <p>Sei que a vida é mais do que códigos e telas de computador, então se quiserem bater um papo sobre qualquer coisa, tô aqui! 🌟</p>
-  <p>Ah, e se surgir alguma oportunidade maneira ou se quiserem trocar uma ideia para me conhecerem, meu celular tá sempre à disposição: <br><br>
+  <p>I know life is more than codes and computer screens, so if you want to chat about anything, I'm here! 🌟</p>
+  <p>Oh, and if any cool opportunities come up or if you want to chat to get to know me, my phone is always available: <br><br>
     <a href="https://api.whatsapp.com/send?phone=5518981091295" title="Enviar Mensagem">
       <img src="https://img.shields.io/badge/-%2325D366?&logo=whatsapp&logoColor=white" target="_blank">
     </a>
@@ -56,15 +51,33 @@
 
 ##
 
-<div style="display: flex; justify-content: space-between;">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<h3> 🔥 Skills as a full stack junior</h3>
+ <div>
+    <p><b>Programming Languages - Front </b></p>
+    <div style="display: flex; justify-content: space-between;">
+      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+    </div>
+ </div>
+
+ ##
+
+<div>
+    <p><b>Programming Languages - Back </b></p>
+    <div style="display: flex; justify-content: space-between;">
+      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    </div>
+</div>
+
+##
+
+<div>
+    <p><b>Database </b></p>
+    <div style="display: flex; justify-content: space-between;">
+      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    </div>
 </div>
