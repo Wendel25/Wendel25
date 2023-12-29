@@ -27,17 +27,17 @@
 <div>
   <br>
   <p><b>💻 What do I do?</b></p>
-  <p>I'm a junior full-stack developer, but my true shine is in the front end, where I make things look nice, and I also take risks in the magical backstage of the backend. 😎🚀</p><br>
+  <p> ● I'm a junior full-stack developer, but my true shine is in the front end, where I make things look nice, and I also take risks in the magical backstage of the backend. 😎🚀</p><br>
 </div>
 
 <div>
   <p><b>📍 Where I live?</b></p>
-  <p>I'm from the interior of São Paulo, in Palmital-SP. The place is peaceful, but my enthusiasm for programming is out of this world. 🌏</p><br>
+  <p> ● I'm from the interior of São Paulo, in Palmital-SP. The place is peaceful, but my enthusiasm for programming is out of this world. 🌏</p><br>
 </div>
 
 <div>
   <p><b>🤖 What intrigues me?</b></p>
-  <p>I'm really into everything related to Cybersecurity, Hacking, Information Security, AI, and others. Those things about unraveling the mysteries of the digital universe, you know?</p><br>
+  <p> ● I'm really into everything related to Cybersecurity, Hacking, Information Security, AI, and others. Those things about unraveling the mysteries of the digital universe, you know?</p><br>
 </div>
 
 <div>
