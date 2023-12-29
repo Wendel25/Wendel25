@@ -45,7 +45,11 @@
 
 <div>
   <p>Sei que a vida é mais do que códigos e telas de computador, então se quiserem bater um papo sobre qualquer coisa, tô aqui! 🌟</p>
-  <p>Ah, e se surgir alguma oportunidade maneira ou se quiserem trocar uma ideia para me conhecerem, meu celular tá sempre à disposição: (18) 98109-1295</p>
+  <p>Ah, e se surgir alguma oportunidade maneira ou se quiserem trocar uma ideia para me conhecerem, meu celular tá sempre à disposição: <br>
+    <a href="https://api.whatsapp.com/send?phone=5518981091295" title="(18) 981091295">
+      <img src="https://img.shields.io/badge/-%2325D366?&logo=whatsapp&logoColor=white" target="_blank">
+    </a>
+  </p>
 </div><br><br>
 
 <div style="display: flex; justify-content: space-between;">
