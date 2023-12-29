@@ -20,6 +20,8 @@
   </a>
 </div><br>
 
+##
+
 <h3>Meu nome é Wendel Lucca, tenho 20 anos e sou completamente apaixonado por desenvolvimento de sistemas. Atualmente, estou no segundo ano nessa jornada maluca que é essa área que a gente ama tanto.</h3>
 
 <div>
@@ -51,6 +53,8 @@
     </a>
   </p>
 </div><br>
+
+##
 
 <div style="display: flex; justify-content: space-between;">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
