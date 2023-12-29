@@ -31,7 +31,7 @@
 </div>
 
 <div>
-  <p><b>🚀 O que tô estudando?</b></p>
+  <p><b>🚀 Minhas Habilidades</b></p>
   <p>Ultimamente, tô quebrando a cabeça com Angular e Node, porém, tenho experiencia em desenvolvimento com React JS, PHP, MySQL e um pouco de PostGreSQL.</p><br>
 </div>
 
