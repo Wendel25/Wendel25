@@ -69,7 +69,7 @@
     <p><b>Programming Languages - Back </b></p>
     <div style="display: flex; justify-content: space-between;">
       <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
     </div>
 </div>
 
