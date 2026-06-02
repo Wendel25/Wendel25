@@ -39,11 +39,7 @@
   <br />
   <div align="center">
     <h3>🧠 Concepts & Domains</h3>
-    <img src="https://img.shields.io/badge/%20-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-    <img src="https://img.shields.io/badge/%20-20232A?style=for-the-badge&logo=eslint&logoColor=4B32C3" />
-    <img src="https://img.shields.io/badge/%20-20232A?style=for-the-badge&logo=googlechrome&logoColor=white" />
-    <img src="https://img.shields.io/badge/%20-20232A?style=for-the-badge&logo=android&logoColor=3DDC84" />
-    <img src="https://img.shields.io/badge/%20-20232A?style=for-the-badge&logo=electron&logoColor=47848F" />
+    <img src="https://skillicons.dev/icons?i=postman,eslint,googlechrome,android,electron" />
   </div>
 </div>
 
