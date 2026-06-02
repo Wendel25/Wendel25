@@ -70,4 +70,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Wendel25/Wendel25/output/snake.svg" alt="Snake animation" />
 </div>
-**
