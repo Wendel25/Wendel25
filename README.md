@@ -4,7 +4,6 @@
   <p>
     Full Stack development, creating and maintaining systems, developing and integrating APIs, building modern interfaces, and implementing scalable, structured solutions. I have experience with software architecture, version control with Git, agile methodologies, and development best practices, including Clean Code principles.
   </p>
-
   <div align="center">
     <a href="#">
       <img src="https://img.shields.io/badge/Check_my_Portfolio-333333?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
@@ -26,12 +25,10 @@
     <h3>🔥 Languages & Technologies</h3>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular,nodejs,nestjs" />
   </div>
-  
   <div align="center">
     <h3>🗄️ Database & Data</h3>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mssql,prisma" />
   </div>
-
   <div align="center">
     <h3>🛠️ Tools & Systems</h3>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux" />
@@ -51,11 +48,9 @@
   <a href="https://api.whatsapp.com/send?phone=5518981091295" title="(18) 981091295">
     <img src="https://img.shields.io/badge/-Whatsapp-%23888?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
-
   <a href="https://www.linkedin.com/in/wendel-l-1353b3205" target="Wendel Lucca">
     <img src="https://img.shields.io/badge/-LinkedIn-%23888?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-
   <a href="mailto:luccawendel25@gmail.com" title="luccawendel25@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23888?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
