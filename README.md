@@ -27,7 +27,7 @@
   </div>
   <div align="center">
     <h3>🗄️ Database & Data</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mssql,prisma" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" />
   </div>
   <div align="center">
     <h3>🛠️ Tools & Systems</h3>
