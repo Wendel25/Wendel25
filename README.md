@@ -36,6 +36,7 @@
     <h3>🛠️ Tools & Systems</h3>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux" />
   </div>
+  <br />
   <div align="center">
     <h3>🧠 Concepts & Domains</h3>
     <img src="https://img.shields.io/badge/Desenvolvimento_Web-20232A?style=for-the-badge" />
@@ -66,7 +67,7 @@
 </div>
 
 ##
-
+<br />
 <div align="center">
   <img src="https://raw.githubusercontent.com/Wendel25/Wendel25/output/snake.svg" alt="Snake animation" />
 </div>
