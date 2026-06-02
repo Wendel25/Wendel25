@@ -24,9 +24,7 @@
 <div align="center">
   <div align="center">
     <h3>🔥 Languages & Technologies</h3>
-     <div style="display: flex; justify-content: space-between;">
-       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular,nodejs,nestjs" />
-      </div>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular,nodejs,nestjs" />
   </div>
   
   <div align="center">
