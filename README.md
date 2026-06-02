@@ -34,6 +34,14 @@
     <h3>🛠️ Tools & Systems</h3>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux" />
   </div>
+  <div align="center">
+    <h3>🧠 Concepts & Domains</h3>
+    <img src="https://img.shields.io/badge/APIs_REST-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+    <img src="https://img.shields.io/badge/Clean_Code-20232A?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" />
+    <img src="https://img.shields.io/badge/Desenvolvimento_Web-20232A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Desenvolvimento_Mobile-20232A?style=for-the-badge&logo=android&logoColor=3DDC84" />
+    <img src="https://img.shields.io/badge/Desenvolvimento_Desktop-20232A?style=for-the-badge&logo=windows&logoColor=0078D6" />
+  </div>
 </div>
 
 ##
