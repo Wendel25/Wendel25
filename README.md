@@ -27,7 +27,7 @@
   </div>
   <div align="center">
     <h3>🗄️ Database & Data</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,swagger" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" />
     <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   </div>
   <div align="center">
