@@ -46,13 +46,12 @@
 </div>
 
 ##
+<br />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Wendel25&style=flat&color=red" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/Wendel25?style=flat&color=red&label=followers" alt="Followers">
 </div>
-
-<br />
 
 <div align="center">
   <a href="https://api.whatsapp.com/send?phone=5518981091295" title="(18) 981091295">
