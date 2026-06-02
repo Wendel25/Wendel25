@@ -13,10 +13,10 @@
 </div>
 
 ##
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wendel25&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel25&layout=compact&theme=radical)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wendel25&show_icons=true&theme=radical" alt="Stats icons">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel25&layout=compact&theme=radical" alt="Stats">
+</div>
 ##
 
 <div align="center">
