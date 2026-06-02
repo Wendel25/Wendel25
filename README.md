@@ -26,8 +26,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular,nodejs,nestjs" />
   </div>
   <div align="center">
-    <h3>🗄️ Database & Data</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" />
+    <br><br>
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   </div>
   <div align="center">
     <h3>🛠️ Tools & Systems</h3>
