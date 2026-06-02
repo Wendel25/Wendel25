@@ -6,10 +6,14 @@
   </p>
 
   <div align="center">
-    <a href="URL_DO_SEU_PORTFOLIO">
+    <a href="#">
       <img src="https://img.shields.io/badge/Check_my_Portfolio-333333?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
     </a>
   </div>
 </div>
 
 ##
+
+<div align="center">
+  <h3>🔥 Languages & Technologies</h3>
+</div>
