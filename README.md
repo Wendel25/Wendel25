@@ -29,6 +29,8 @@
     <h3>🗄️ Database & Data</h3>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" />
     <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+    <img src="https://img.shields.io/badge/API_REST-20232A?style=for-the-badge&logo=swagger&logoColor=white" />
+    <img src="https://img.shields.io/badge/Clean_Code-20232A?style=for-the-badge&logo=sonarlint&logoColor=white" />
   </div>
   <div align="center">
     <h3>🛠️ Tools & Systems</h3>
