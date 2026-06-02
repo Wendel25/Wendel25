@@ -15,8 +15,8 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wendel25&show_icons=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel25&layout=compact&theme=dracula">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Wendel25&show_icons=true&theme=dracula" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel25&layout=compact&theme=dracula" />
 </div>
 
 ##
