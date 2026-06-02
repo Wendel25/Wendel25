@@ -54,10 +54,8 @@
 </div>
 
 ##
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Wendel25&style=flat&color=red" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/Wendel25?style=flat&color=red&label=followers" alt="Followers">
 </div>
-
 ##
