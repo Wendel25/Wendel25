@@ -23,23 +23,18 @@
 <div align="center">
   <div align="center">
     <h3>🔥 Languages & Technologies</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular,nodejs,nestjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular,electron,nodejs,nestjs" />
   </div>
   <br />
   <div align="center">
     <h3>🗄️ Database & Data</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,postman" />
     <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   </div>
   <br />
   <div align="center">
     <h3>🛠️ Tools & Systems</h3>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux" />
-  </div>
-  <br />
-  <div align="center">
-    <h3>🧠 Concepts & Domains</h3>
-    <img src="https://skillicons.dev/icons?i=postman,eslint,googlechrome,android,electron" />
   </div>
 </div>
 
