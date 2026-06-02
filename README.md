@@ -15,6 +15,13 @@
 ##
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wendel25&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel25&layout=compact&theme=dracula">
+</div>
+
+##
+
+<div align="center">
   <div align="center">
     <h3>🔥 Languages & Technologies</h3>
      <div style="display: flex; justify-content: space-between;">
