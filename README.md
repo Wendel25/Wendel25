@@ -58,4 +58,19 @@
   <img src="https://komarev.com/ghpvc/?username=Wendel25&style=flat&color=red" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/Wendel25?style=flat&color=red&label=followers" alt="Followers">
 </div>
+
 ##
+
+<div align="center">
+  <a href="https://api.whatsapp.com/send?phone=5518981091295" title="(18) 981091295">
+    <img src="https://img.shields.io/badge/-Whatsapp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://www.linkedin.com/in/wendel-l-1353b3205" target="Wendel Lucca">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+
+  <a href="mailto:luccawendel25@gmail.com" title="luccawendel25@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
