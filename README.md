@@ -56,8 +56,10 @@
 ##
 
 <div align="center">
-  <p><img src="https://komarev.com/ghpvc/?username=Wendel25&style=flat&color=red" alt="Profile Views"></p>
-  <p><img src="https://img.shields.io/github/followers/Wendel25?style=flat&color=red&label=followers" alt="Followers"></p>
+  <div>
+    <p><img src="https://komarev.com/ghpvc/?username=Wendel25&style=flat&color=red" alt="Profile Views"></p>
+    <p><img src="https://img.shields.io/github/followers/Wendel25?style=flat&color=red&label=followers" alt="Followers"></p>
+  </div>
 </div>
 
 ##
