@@ -1,4 +1,4 @@
-### <h1 align="center">Hello word, I am Wendel Lucca 👋</h1><br>
+### <h1 align="center">Hello world, I am Wendel Lucca 👋</h1><br>
 
 <div align="center">
   <p>
