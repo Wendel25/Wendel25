@@ -25,22 +25,25 @@
     <h3>🔥 Languages & Technologies</h3>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular,nodejs,nestjs" />
   </div>
+  <br />
   <div align="center">
     <h3>🗄️ Database & Data</h3>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" />
     <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   </div>
+  <br />
   <div align="center">
     <h3>🛠️ Tools & Systems</h3>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux" />
   </div>
+  <br />
   <div align="center">
     <h3>🧠 Concepts & Domains</h3>
-    <img src="https://img.shields.io/badge/APIs_REST-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-    <img src="https://img.shields.io/badge/Clean_Code-20232A?style=for-the-badge&logo=eslint&logoColor=4B32C3" />
-    <img src="https://img.shields.io/badge/Desenvolvimento_Web-20232A?style=for-the-badge&logo=googlechrome&logoColor=white" />
-    <img src="https://img.shields.io/badge/Desenvolvimento_Mobile-20232A?style=for-the-badge&logo=android&logoColor=3DDC84" />
-    <img src="https://img.shields.io/badge/Desenvolvimento_Desktop-20232A?style=for-the-badge&logo=electron&logoColor=47848F" />
+    <img src="https://img.shields.io/badge/%20-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+    <img src="https://img.shields.io/badge/%20-20232A?style=for-the-badge&logo=eslint&logoColor=4B32C3" />
+    <img src="https://img.shields.io/badge/%20-20232A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20-20232A?style=for-the-badge&logo=android&logoColor=3DDC84" />
+    <img src="https://img.shields.io/badge/%20-20232A?style=for-the-badge&logo=electron&logoColor=47848F" />
   </div>
 </div>
 
