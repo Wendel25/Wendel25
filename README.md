@@ -29,7 +29,7 @@
   
   <div align="center">
     <h3>🗄️ Database & Data</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,microsoftsqlserver,prisma" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlserver,prisma" />
   </div>
 
   <div align="center">
