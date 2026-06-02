@@ -1,4 +1,4 @@
-### <h1 align="center">Hello word, I am Wendel Lucca 👋</h1><br>
+**### <h1 align="center">Hello word, I am Wendel Lucca 👋</h1><br>
 
 <div align="center">
   <p>
@@ -27,7 +27,7 @@
   </div>
   <div align="center">
     <h3>🗄️ Database & Data</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,swagger" />
     <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
     <img src="https://img.shields.io/badge/API_REST-20232A?style=for-the-badge&logo=swagger&logoColor=white" />
     <img src="https://img.shields.io/badge/Clean_Code-20232A?style=for-the-badge&logo=sonarlint&logoColor=white" />
@@ -64,3 +64,4 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Wendel25/Wendel25/output/snake.svg" alt="Snake animation" />
 </div>
+**
