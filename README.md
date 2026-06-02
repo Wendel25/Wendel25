@@ -75,3 +75,9 @@
     <img src="https://img.shields.io/badge/-Gmail-%23888?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
+
+##
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Wendel25/gitrepo/output/snake.svg" alt="Snake animation" />
+</div>
