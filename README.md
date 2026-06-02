@@ -54,6 +54,7 @@
 </div>
 
 ##
+
   <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Wendel25&style=flat&color=red)
