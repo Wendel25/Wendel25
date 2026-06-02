@@ -34,7 +34,7 @@
 
   <div align="center">
     <h3>🛠️ Tools & Systems</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,windows8,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux" />
   </div>
 </div>
 
