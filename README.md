@@ -34,14 +34,8 @@
 
   <div align="center">
     <h3>🛠️ Tools & Systems</h3>
-       <div style="display: flex; justify-content: space-between;">
-          <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-          <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-          <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-          <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-          <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-        </div>
-    </div>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,windows8,linux" />
+  </div>
 </div>
 
 ##
