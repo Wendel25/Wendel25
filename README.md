@@ -23,7 +23,7 @@
 <div align="center">
   <div align="center">
     <h3>🔥 Languages & Technologies</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular,electron,nodejs,nestjs,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular,electron,nodejs,nestjs,sass,vite" />
   </div>
   <br />
   <div align="center">
@@ -35,6 +35,12 @@
   <div align="center">
     <h3>🛠️ Tools & Systems</h3>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux" />
+  </div>
+  <div align="center">
+    <h3>🧠 Concepts & Domains</h3>
+    <img src="https://img.shields.io/badge/Desenvolvimento_Web-20232A?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Desenvolvimento_Mobile-20232A?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Desenvolvimento_Desktop-20232A?style=for-the-badge" />
   </div>
 </div>
 
