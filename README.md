@@ -29,13 +29,8 @@
   
   <div align="center">
     <h3>🗄️ Database & Data</h3>
-       <div style="display: flex; justify-content: space-between;">
-          <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-          <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-          <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-          <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-        </div>
-    </div>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,microsoftsqlserver,prisma" />
+  </div>
 
   <div align="center">
     <h3>🛠️ Tools & Systems</h3>
