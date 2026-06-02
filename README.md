@@ -51,5 +51,7 @@
           <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
         </div>
     </div>
-    
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Wendel25&style=flat&color=red)
+![Followers](https://img.shields.io/github/followers/Wendel25?style=flat&color=red&label=followers)
