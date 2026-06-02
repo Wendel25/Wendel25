@@ -55,8 +55,7 @@
 
 ##
 
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Wendel25&style=flat&color=red)
-  ![Followers](https://img.shields.io/github/followers/Wendel25?style=flat&color=red&label=followers)
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Wendel25&style=flat&color=red)
+![Followers](https://img.shields.io/github/followers/Wendel25?style=flat&color=red&label=followers)
+
 ##
